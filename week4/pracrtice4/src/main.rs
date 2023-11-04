@@ -1,9 +1,9 @@
 fn main() {
-    let fullname = "chidubem davidson"
-    let department = "Computer science"
+    let fullname = "chidubem davidson";
+    let department = "Computer science";
     let university = "pan atlantic university";
 
-    let mut student  = "School of science".to_string();
+    let mut school = "School of science".to_string();
     //to make that school of science and technology  a string  irrespective of its data type
 school.push_str("and technology");
 

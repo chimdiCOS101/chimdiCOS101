@@ -6,16 +6,16 @@ fn main() {
    result = num1+num2;
    println!("sum: {}",result );
 
-   result = num1-num2
+   result = num1-num2;
    println!("difference: {}", result );
 
-   result= num1*num2
+   result= num1*num2;
    println!("product {}",result );
 
-    result = num1/num2
+    result = num1/num2;
     println!("result {}",result );
 
-    result = num1%num2
+    result = num1%num2;
     println!("result{}",result );
 
 }
