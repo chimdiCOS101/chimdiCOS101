@@ -14,4 +14,8 @@ fn main() {
 
    let remainder:i64= 43 % 5;
    println!("the remainder of 43 and 5  is {}", remainder );
+   let str_slice = 4;
+let usage = String::from(str_slice.to_string());
+println!("this is usage {}",usage );
+
 }
