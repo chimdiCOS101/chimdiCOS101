@@ -1,0 +1,3 @@
+Welcome to rust programming
+Week 9 - rust file  & output 
+Department of computer science
